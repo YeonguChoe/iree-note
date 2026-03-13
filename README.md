@@ -1,1 +1,1 @@
-# iree-note
+# IREE Note
